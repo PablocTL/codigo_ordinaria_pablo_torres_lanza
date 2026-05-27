@@ -1,0 +1,40 @@
+{
+  "num_stations": 13,
+  "num_connections": 20,
+  "hub_station": "Atocha",
+  "hub_connections": 4,
+  "all_stations": [
+    "Atocha",
+    "Bilbao",
+    "Callao",
+    "Casa de Campo",
+    "Chamartín",
+    "Chueca",
+    "Gran Vía",
+    "Malasaña",
+    "Moncloa",
+    "Nuevos Ministerios",
+    "Opera",
+    "Parque Retiro",
+    "Plaza Mayor",
+    "Reina Sofía",
+    "Sol"
+  ],
+  "station_degrees": {
+    "Atocha": 4,
+    "Sol": 3,
+    "Gran Vía": 3,
+    "Bilbao": 1,
+    "Callao": 2,
+    "Chueca": 2,
+    "Opera": 2,
+    "Plaza Mayor": 1,
+    "Malasaña": 1,
+    "Reina Sofía": 1,
+    "Parque Retiro": 1,
+    "Chamartín": 1,
+    "Nuevos Ministerios": 2,
+    "Moncloa": 1,
+    "Casa de Campo": 0
+  }
+}

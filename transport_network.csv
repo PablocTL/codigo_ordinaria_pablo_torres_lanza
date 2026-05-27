@@ -1,0 +1,21 @@
+origen,destino,minutos
+Sol,Plaza Mayor,5
+Sol,Atocha,8
+Sol,Gran Vía,3
+Plaza Mayor,Atocha,12
+Gran Vía,Callao,4
+Gran Vía,Chueca,6
+Callao,Atocha,15
+Callao,Opera,7
+Atocha,Reina Sofía,3
+Atocha,Chamartín,20
+Reina Sofía,Parque Retiro,8
+Parque Retiro,Chamartín,25
+Chamartín,Nuevos Ministerios,12
+Nuevos Ministerios,Moncloa,18
+Moncloa,Casa de Campo,10
+Chueca,Bilbao,5
+Bilbao,Nuevos Ministerios,10
+Opera,Plaza Mayor,8
+Opera,Malasaña,7
+Malasaña,Chueca,4
