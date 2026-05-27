@@ -3,7 +3,7 @@
 ## Requisitos previos
 
 - Python 3.7 o superior (sin librerías externas, todo es de la librería estándar)
-- Los archivos `transport_network_planner.py` y `transport_network.csv` en la misma carpeta
+- Los archivos `codigo_ordinaria_pablo_torres_lanza_transport_planner.py` y `transport_network.csv` en la misma carpeta
 
 ---
 
